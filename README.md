@@ -12,5 +12,8 @@ Awesome Tools aim to collect awesome tools in my programming life.
 ## Bean Mapping
 * Type safe explicit mapping from Model Mapper http://modelmapper.org/getting-started/
 
+## Testing
+* [Database Rider](https://github.com/database-rider/database-rider), Database testing tool integrating DBUnit and JUnit 
+
 # Persistence
 ## JOOQ https://www.jooq.org
