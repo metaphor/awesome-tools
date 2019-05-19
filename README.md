@@ -17,3 +17,10 @@ Awesome Tools aim to collect awesome tools in my programming life.
 
 # Persistence
 ## JOOQ https://www.jooq.org
+
+
+
+# Tools
+## Templating
+
+* A Template-based File Generator. Like cookiecutter but works with file templates instead of project templates. https://github.com/bbugyi200/cookie
