@@ -24,3 +24,6 @@ Awesome Tools aim to collect awesome tools in my programming life.
 ## Templating
 
 * A Template-based File Generator. Like cookiecutter but works with file templates instead of project templates. https://github.com/bbugyi200/cookie
+
+## Log viewer
+* [lnav](http://lnav.org/) An advanced log file viewer for the small-scale.
