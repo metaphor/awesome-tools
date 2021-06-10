@@ -7,8 +7,10 @@ Awesome Tools aim to collect awesome tools in my programming life.
 * Introduction of BCrypt https://codahale.com/how-to-safely-store-a-password/
 * Java implementation of BCrypt http://www.mindrot.org/projects/jBCrypt/
 
-
 # Frameworks
+
+
+
 ## Bean Mapping
 * Type safe explicit mapping from Model Mapper http://modelmapper.org/getting-started/
 
@@ -27,3 +29,8 @@ Awesome Tools aim to collect awesome tools in my programming life.
 
 ## Log viewer
 * [lnav](http://lnav.org/) An advanced log file viewer for the small-scale.
+
+
+# Analytics
+
+* [Cube.js](https://cube.dev/) is an open source analytical API platform
